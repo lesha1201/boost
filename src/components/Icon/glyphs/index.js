@@ -34,6 +34,8 @@ import More from './More.svg';
 import MoreVertical from './MoreVertical.svg';
 import PaperClip from './PaperClip.svg';
 import Planet from './Planet.svg';
+import Plus from './_Plus.svg';
+import Salesforce from './Salesforce.svg';
 import Schema from './Schema.svg';
 import Screens from './Screens.svg';
 import Search from './Search.svg';
@@ -78,6 +80,8 @@ export {
   MoreVertical,
   PaperClip,
   Planet,
+  Plus,
+  Salesforce,
   Schema,
   Screens,
   Search,
